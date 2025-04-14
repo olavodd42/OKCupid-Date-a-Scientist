@@ -1,0 +1,6 @@
+./ipynb_checkpoints
+./.virtual_documents
+*.png
+*.db
+psycho*.csv
+sophis*.csv
